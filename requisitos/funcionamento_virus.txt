@@ -1,4 +1,17 @@
+In a new video, lung pathologist Sanjay Mukhopadhyay, MD, lays out in detail how the lungs are affected in these severe cases. The 15-minute video walks through how COVID-19 causes a “dangerous and potentially fatal” condition known as acute respiratory distress syndrome (ARDS) while providing stark images that underscore the severity of the damage that condition can cause to your lungs. 
 
+As Dr. Mukhopadhyay explains, Chinese researchers have linked COVID-19 to ARDS. The researchers found 50 of the 54 patients who died had developed ARDS while only nine of the 137 survivors had ARDS. 
+So how does ARDS actually damage your lungs?
+
+Most importantly, patients who are suffering from ARDS end up having damage to the walls of the air sacs in their lungs — the ones that help oxygen pass through into our red blood cells. That’s what doctors term diffuse alvelolar damage.
+
+In a healthy lung, oxygen within these air sacs (alveolus) travels through to small blood vessels (capillaries). These tiny vessels, in turn, deliver the oxygen to your red blood cells.
+
+“Nature has evolved in a way that the wall of alveolus is very, very thin in a normal person so oxygen can easily get from the air space in between to the red blood cell,” Dr. Mukhopadhyay explains.
+
+The coronavirus damages both the wall and lining cells of the alveolus as well as the capillaries. The debris that accumulates because of all of that damage lines the wall of the alveolus the same way paint would cover a wall, Dr. Mukhopadhyay points out. The damage to capillaries also causes them to leak plasma proteins that add to the wall’s thickness.
+
+“Eventually, the wall of the alveolus gets thicker than it should be,” he notes. “The thicker this wall gets, the harder it is to transfer oxygen, the more you feel short of breath, and the more and more you start moving towards severe illness and possibly death.”
 
 Referência:
 https://health.clevelandclinic.org/heres-the-damage-coronavirus-covid-19-can-do-to-your-lungs/
