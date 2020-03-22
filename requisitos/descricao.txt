@@ -1,0 +1,14 @@
+Descrição do problema: 
+
+Following the progression of the COVID-19, the number of infected patients grows in many countries so fast it
+doubles every 3 days. Since 20% of them are hospitalized and 5% need admission in an ICU, 
+the demand for ventilators is extremely high.
+
+No healthcare system is prepared for such high demand, so the rapid manufacturing of ventilators for hospitals
+everywhere is rather urgent. Current ventilator models are complex and costly, and the number of manufacturers 
+is limited. Therefore, it is not possible to supply the needed amount in the short-term.
+
+
+Referência:
+https://www.ennomotive.com/icu-ventilators-covid-19/
+
