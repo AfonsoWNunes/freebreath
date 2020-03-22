@@ -1,14 +1,39 @@
 Descrição do problema: 
 
-Following the progression of the COVID-19, the number of infected patients grows in many countries so fast it
-doubles every 3 days. Since 20% of them are hospitalized and 5% need admission in an ICU, 
-the demand for ventilators is extremely high.
+Following the progression of the COVID-19, the number of infected patients grows in many countries so fast it doubles every 3 days. Since 20% of them are hospitalized and 5% need admission in an ICU, the demand for ventilators is extremely high.
 
 No healthcare system is prepared for such high demand, so the rapid manufacturing of ventilators for hospitals
 everywhere is rather urgent. Current ventilator models are complex and costly, and the number of manufacturers 
 is limited. Therefore, it is not possible to supply the needed amount in the short-term.
 
-
 Referência:
 https://www.ennomotive.com/icu-ventilators-covid-19/
 
+
+Mechanical ventilation
+Main article: Mechanical ventilation
+
+Mechanical ventilation is a method to mechanically assist or replace spontaneous breathing.[7] This may involve a machine called a ventilator or the breathing may be assisted by a registered nurse, physician, physician assistant, respiratory therapist, paramedic, or other suitable person compressing a bag valve mask or set of bellows. Mechanical ventilation is termed "invasive" if it involves any instrument penetrating through the mouth (such as an endotracheal tube) or the skin (such as a tracheostomy tube).[8] There are two main modes of mechanical ventilation within the two divisions: positive pressure ventilation, where air (or another gas mix) is pushed into the trachea, and negative pressure ventilation, where air is, in essence, sucked into the lungs. 
+
+Referência:
+https://en.wikipedia.org/wiki/Artificial_ventilation
+
+Function
+
+In its simplest form, a modern positive pressure ventilator consists of a compressible air reservoir or turbine, air and oxygen supplies, a set of valves and tubes, and a disposable or reusable "patient circuit". The air reservoir is pneumatically compressed several times a minute to deliver room-air, or in most cases, an air/oxygen mixture to the patient. If a turbine is used, the turbine pushes air through the ventilator, with a flow valve adjusting pressure to meet patient-specific parameters. When over pressure is released, the patient will exhale passively due to the lungs' elasticity, the exhaled air being released usually through a one-way valve within the patient circuit called the patient manifold.
+
+Ventilators may also be equipped with monitoring and alarm systems for patient-related parameters (e.g. pressure, volume, and flow) and ventilator function (e.g. air leakage, power failure, mechanical failure), backup batteries, oxygen tanks, and remote control. The pneumatic system is nowadays often replaced by a computer-controlled turbopump.
+
+Modern ventilators are electronically controlled by a small embedded system to allow exact adaptation of pressure and flow characteristics to an individual patient's needs. Fine-tuned ventilator settings also serve to make ventilation more tolerable and comfortable for the patient. In Canada and the United States, respiratory therapists are responsible for tuning these settings, while biomedical technologists are responsible for the maintenance. In the United Kingdom and Europe the management of the patient's interaction with the ventilator is done by critical care nurses.
+
+The patient circuit usually consists of a set of three durable, yet lightweight plastic tubes, separated by function (e.g. inhaled air, patient pressure, exhaled air). Determined by the type of ventilation needed, the patient-end of the circuit may be either noninvasive or invasive.
+
+Noninvasive methods, such as continuous positive airway pressure (CPAP) and non-invasive ventilation, which are adequate for patients who require a ventilator only while sleeping and resting, mainly employ a nasal mask. Invasive methods require intubation, which for long-term ventilator dependence will normally be a tracheotomy cannula, as this is much more comfortable and practical for long-term care than is larynx or nasal intubation.
+Life-critical system
+
+Because failure may result in death, mechanical ventilation systems are classified as a life-critical system, and precautions must be taken to ensure that they are highly reliable, including their power-supply.
+
+Mechanical ventilators are therefore carefully designed so that no single point of failure can endanger the patient. They may have manual backup mechanisms to enable hand-driven respiration in the absence of power (such as the mechanical ventilator integrated into an anaesthetic machine). They may also have safety valves, which open to atmosphere in the absence of power to act as an anti-suffocation valve for spontaneous breathing of the patient. Some systems are also equipped with compressed-gas tanks, air compressors, and/or backup batteries to provide ventilation in case of power failure or defective gas supplies, and methods to operate or call for help if their mechanisms or software fail. 
+
+Referência:  
+https://en.wikipedia.org/wiki/Ventilator
