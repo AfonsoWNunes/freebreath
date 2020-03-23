@@ -10,8 +10,12 @@
       - Quais vantagens e desvantagens?:
       - Lavagem da atmosfera de CO2 + COVID19 ??  
 
-- Funcionalidade:
-  - Gestão do CO2 residual na atmosfera da mascára;
+- Funcionalidades:
+  - Estudar as necessidades para este sistema. 
+  - Gestão do CO2 residual;
+  
+  - De protótipos já existentes, checar:
+    - It weighs eight kilograms, producing compressed air. It can do controlled ventilation, assist-control ventilation, and synchronous intermittent mandatory ventilation.
 
 - Fabricação:
   - Uso de materiais disponíveis em prateleiras:
