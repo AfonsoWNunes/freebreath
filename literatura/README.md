@@ -1,7 +1,7 @@
 Literatura publicada sobre respiradores artificiais.
 
 ### Review: 
-- arquivo 001 
+- arquivo 001:
   - Desvantagens de equipamentos comerciais baixo custo:
     - Sem ajustes (limita qtd. de pacientes que podem utilizar);
     - Compressor utiliza muita energia, limita uso da bateria;
@@ -18,5 +18,9 @@ Literatura publicada sobre respiradores artificiais.
     
    - Conclusões:
      - Baixo consumo (3hora em situação com maior demanda) na bateria;
+
+- arquivo 002:
+  - Segurança de contaminação da equipe médica;
+  - Utilização de filtros para minimizar contaminação do equipamento; 
     
     
