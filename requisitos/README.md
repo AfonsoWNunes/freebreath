@@ -15,7 +15,9 @@
     - Vistas 2D de montagens e das peças;
     
 - Sistemas de segurança:
-  - FMEA do equipamento; <-- Definir quais sistemas de segurança implementar, grau de risco
+  - FMEA do equipamento; <-- Definir quais sistemas de segurança implementar, grau de risco;
+- Gestão dos resíduos:
+  - Ar de exaustão contaminado (procedimento???)
 
 - Final:
   - Demonstração do produto;
