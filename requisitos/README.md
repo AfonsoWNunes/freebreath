@@ -2,6 +2,17 @@
 
 - Interface ao usuário:
   - Fácil utilização - ref.: requisito001.txt;
+  - Parâmetros de respiração ajustáveis;
+  - Modo de instalação do equipamento no paciente:
+    - Mascára (NARIZ+BOCA):
+      - Vazamento (diminui qtd de CO2, contaminação de terceiros, desconforto);
+    - Capacete:
+      - Quais vantagens e desvantagens?:
+
+- Funcionalidade:
+  - Gestão do CO2 residual na atmosfera da mascára;
+
+
 
 - Fabricação:
   - Uso de materiais disponíveis em prateleiras:
