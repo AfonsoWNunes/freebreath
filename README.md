@@ -1,3 +1,8 @@
+# COVID 2019  
+Contribuir de alguma forma com o aumento da capacidade do sistema de saúde.
+Além deste objetivo no curto prazo, o resultado deste trabalho coletivo pode ajudar populações mais vulneráveis
+no longo prazo. 
+
 # freebreath
 Desenvolvimento do Projeto de respirador mecânico. 
 
@@ -9,16 +14,23 @@ Desenvolvimento do Projeto de respirador mecânico.
 - utilizar materiais e componentes disponíveis comercialmente;
 
 
-
-Produto final: 
-- desenho completo do equipamento;
+### Produto final: 
 - lista de materiais para construção do equipamento; 
-- arquivo CAD com o desenho do equipamento; 
+- arquivos com o projeto completo do equipamento; 
 
 
 ## Passos
 ### Passo 1 (FASE ATUAL):
 -Conhecimento do modo de funcionamento de um respirador artificial e proposição de projetos conceituais;
+-Elaboração dos passos a serem tomados; 
+
+
+
+
+
+Links úteis:
+- CPAP and Non-Invasive Ventilation in 5 minutes
+  -https://www.youtube.com/watch?v=OHQK5PUTQ_0
 
 
 
