@@ -25,14 +25,16 @@
       - Disponibilizar arquivos para impressão  + parâmetros de impressão.
       
   - Desenho CAD
-    - Montagem de arquivos em  .step;
-    - Vistas 2D de montagens e das peças;
+    - Montagem dos componentes em  .step;
+    - Vistas 2D de montagens e das peças em .pdf;
+    - Vídeo de montagem;
     
 - Sistemas de segurança:
   - FMEA do equipamento; <-- Definir quais sistemas de segurança implementar, grau de risco;
 
 - Gestão dos resíduos:
-  - Ar de exaustão contaminado (procedimento???)
+  - Ar de exaustão contaminado (procedimento??? (Filtros na entrada e saída das tubulações))
+  - Segurança para a equipe médica;
 
 - Final:
   - Demonstração do produto;
