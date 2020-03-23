@@ -5,7 +5,6 @@
   - Parâmetros de respiração ajustáveis;
   - Modo de instalação do equipamento no paciente:
     - Mascára (NARIZ+BOCA):
-    Format: ![Alt Text](url) 
       - Vazamento (diminui qtd de CO2, contaminação de terceiros, desconforto);
     - Capacete:
       - Quais vantagens e desvantagens?:
