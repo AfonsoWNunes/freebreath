@@ -8,7 +8,7 @@
       - Vazamento (diminui qtd de CO2, contaminação de terceiros, desconforto);
     - Capacete:
       - Quais vantagens e desvantagens?:
-      - Lavagem do CO2 ?? 
+      - Lavagem da atmosfera de CO2 + COVID19 ??  
 
 - Funcionalidade:
   - Gestão do CO2 residual na atmosfera da mascára;
