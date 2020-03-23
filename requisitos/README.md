@@ -5,6 +5,7 @@
   - Parâmetros de respiração ajustáveis;
   - Modo de instalação do equipamento no paciente:
     - Mascára (NARIZ+BOCA):
+    Format: ![Alt Text](url) 
       - Vazamento (diminui qtd de CO2, contaminação de terceiros, desconforto);
     - Capacete:
       - Quais vantagens e desvantagens?:
@@ -12,8 +13,6 @@
 
 - Funcionalidade:
   - Gestão do CO2 residual na atmosfera da mascára;
-
-
 
 - Fabricação:
   - Uso de materiais disponíveis em prateleiras:
@@ -28,6 +27,7 @@
     
 - Sistemas de segurança:
   - FMEA do equipamento; <-- Definir quais sistemas de segurança implementar, grau de risco;
+
 - Gestão dos resíduos:
   - Ar de exaustão contaminado (procedimento???)
 
