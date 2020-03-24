@@ -21,9 +21,10 @@ Desenvolvimento do Projeto de respirador mecânico.
 
 ## Passos
 ### Passo 1 (FASE ATUAL):
--Conhecimento do modo de funcionamento de um respirador artificial e proposição de projetos conceituais;
--Conhecimento de como o virus ataca o pulmao;
--Elaboração dos passos a serem tomados; 
+
+- Conhecimento do modo de funcionamento de um respirador artificial e proposição de projetos conceituais;
+- Conhecimento de como o virus ataca o pulmao;
+- Elaboração dos passos a serem tomados; 
 
 
 
